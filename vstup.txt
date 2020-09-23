@@ -1,0 +1,2 @@
+Microsoft Office Word lets you quickly insert sample text into a document.
+This article discuses how to inser sample text into a document when you use diferent versons of Word.
